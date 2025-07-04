@@ -1,10 +1,10 @@
 body {
     background-color: black;
     color:darkred;
-    font-family: "Libertinus Mono", monospace;
+   font-family: "Manufacturing Consent", system-ui;
     font-size: 60px;
 }
-hl{
+h1{
     font-size:20px;
     border:double 5px red;
     padding: 50px;
