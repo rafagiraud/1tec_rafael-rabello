@@ -5,12 +5,12 @@ body {
     font-size: 60px;
 }
 h1{
-    font-size:20px;
+    font-size:30px;
     border:double 5px red;
     padding: 50px;
     text-align: center;
 }
 p{
-    font-size:15px;
+    font-size:30px;
 }
 
