@@ -5,12 +5,25 @@ body {
     font-size: 60px;
 }
 h1{
-    font-size:30px;
-    border:double 5px red;
-    padding: 50px;
+    font-size:50px;
+    border:double 10px red;
+    padding: 60px;
     text-align: center;
 }
 p{
     font-size:30px;
 }
+
+section {
+    display: flex;
+    justify-content: center;
+    beckground-color:darkred (0, 0, 72);
+    color:red;
+}
+
+.texto { 
+     margin-right: 20%;
+}
+  
+
 
